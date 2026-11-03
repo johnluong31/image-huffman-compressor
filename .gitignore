@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Tệp đệm tạm thời
+data/_temp_*
